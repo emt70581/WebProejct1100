@@ -81,9 +81,9 @@ not let that detur you from attending. The time invested is very little but the 
 <h5> Here are some pictures from previous visits! </h5>
 
 
-<img src="silverleaf01.jpg" atl= "Baloon game!" width="300" height="300" >
+<img src="silverleaf01.png" atl= "Baloon game!" width="300" height="300" >
 
-<img src="silverleaf02.jpg" atl= "Coloring with residents"  width="300" height="300" >
+<img src="silverleaf02.png" atl= "Coloring with residents"  width="300" height="300" >
 
 
 
