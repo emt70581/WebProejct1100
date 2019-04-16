@@ -69,7 +69,6 @@ The scene can be overwelming to those who have never visited a memory care unit 
 not let that detur you from attending. The time invested is very little but the reward of givng your time to those at the home is well worth it!  </p>
 
 <title> Upcoming Visits </title>
-</head>
 
 <h3>Upcoming Visits Located on <u> 412 Whithead Rd 4pm-5pm </u> </h3>
 <p> contanct an executive memeber if you need a ride!</p>
